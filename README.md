@@ -26,8 +26,12 @@ Explore the sheets and find out the issues with the data. Some of the issues:
         Unit price as $ 10
 
 5. Checked for duplicates. 
-
+   
          No duplicates found
 
-6. Made Pivot Table to analyse data and build charts for the dashboard.
+7. Made Pivot Table to analyse data and build charts for the dashboard.
+
+          1. Total Sales 
+          2. County Bar Chart
+          3. Top 5 Customers
 
