@@ -1,5 +1,5 @@
 # Coffee-Data-Analysis
-This project only uses Microsoft Excel for Data Cleaning, Analysing and Visualization. Pivot Table is used for analysing the data.
+Data Cleaning, Analysing and Visualization using `Microsoft Excel` alone. Pivot Table is used for analysing the data.
 
 Dataset : [Coffee Sales](https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx)
 
